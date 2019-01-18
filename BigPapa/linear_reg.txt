@@ -1,0 +1,28 @@
+Linear Regression -> Used to predict continous values.It involve independent variables and dependent variable. {y = a0 +a1x}
+mean squared error MSE = (1/n)SIGMA{(yi^2 - Yi^2)^2} from 1 to n.
+Pros.
+Very Fast 
+Basic
+No Parameter tuning as in knn
+Easy to understand and highly interpretable
+======================================================================
+Multiple LR
+When??
+Independent variables effectiveness on prediction
+Predicting impacts of changes
+Generally, the model is of the form: y ̂=θ_0+ θ_1 x_1+ θ_2 x_2 and so on, up to ... +θ_n x_n.
+There are a number of ways to check for linear relationship.
+For example, you can use scatterplots, and then visually check for linearity.
+If the relationship displayed in your scatterplot is not linear, then, you need to use non-linear regression.
+==========================================================================================================
+"training accuracy?"
+1. Training accuracy is the percentage of correct predictions that the model makes when using the test dataset on which it is trained too.
+2. However, a high training accuracy isn’t necessarily a good thing.
+3. For instance, having a high training accuracy may result in an ‘over-fit’ of the data.
+4. This means that the model is overly trained to the dataset, which may capture noise and produce a non-generalized model.
+"Out-of-sample accuracy" 
+1. It is the percentage of correct predictions that the model makes on data that the model has NOT been trained on.
+2. It’s important that our models have high, out-of-sample accuracy.
+""K-Fold Cross validation""
+
+
