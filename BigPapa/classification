@@ -1,0 +1,4 @@
+A supervised learning approach.
+Categorizing some unknown items into a discrete set of categories or classes.
+Target attribute is categorical variable.
+K-nearest Neighbours->
