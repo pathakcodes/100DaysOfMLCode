@@ -1,0 +1,39 @@
+A supervised learning approach.
+Categorizing some unknown items into a discrete set of categories or classes.
+Target attribute is categorical variable.
+K-nearest Neighbours->
+Decision tree->
+Logistic Regression-> It is a classification algorithm for categorical variables.
+when??
+1. Binary
+2. If you need probability results.
+3. When you need a linear decision boundary.
+4. If you need to understand the impact of a feature.
+
+==========================================================
+SUPPORT VECTOR MACHINE
+SVM is a supervised algo that classifies cases by finding a separator.
+1. Mapping data to a high-dimensional feature space
+2. Finding a separator
+
+Mapping data into a higher dimensional space is called kernelling.
+The mathematical function used for the transformation is known as kernel function.
+Types of kernelling :- Linear, Polynomial, (Radial Basis Function)RBF, Sigmoid
+
+SVMs are based on the idea of finding a hyperplane that best divides a dataset into two classes.
+ADv.
+1. Accurate in high-dimension spaces
+2. memory efficient; they use a subset of training point in the decision function called support vectors.
+DisadV.
+1. Algo is prone to overfitting, if the number of features > no. of samples
+2. No probability estimation
+3. Not good for small datasets
+
+Whenn to use??
+1. Image Rec.
+2. Text category assignment
+3. detecting spam
+4. sentiment analysis
+5. gene expression classification
+6. regression, outlier detection
+

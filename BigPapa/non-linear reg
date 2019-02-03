@@ -1,0 +1,5 @@
+Y = a0 + a1a2x
+How to know if a problem is linear or non linear?
+1. Best way is to plat bivariate plots of output variables with each input variable.
+2. Calculate correlation coefficient between dependent and independent variables nad if for all variables it is 0.7 or higher ,then it is linear tendency.
+
