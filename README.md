@@ -9,3 +9,5 @@ I [Shellkore](https://github.com/shellkore) also pledges to push my ML/DL codes 
 ### BigPapa
 I ,[Shubham](https://github.com/shubham7298), am here to join the fun. I will also stay dedicated towards ML.
 
+>I shaiesh (This profile is dead) also pledges to do the same.
+
