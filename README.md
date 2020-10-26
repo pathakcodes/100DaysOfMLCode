@@ -9,3 +9,6 @@ I [Shellkore](https://github.com/shellkore) also pledges to push my ML/DL codes 
 ### BigPapa
 I ,[Shubham](https://github.com/shubham7298), am here to join the fun. I will also stay dedicated towards ML.
 
+### Pathakcodes1
+I, [Pathakcodes1] , I am here to see you all doing fun
+
